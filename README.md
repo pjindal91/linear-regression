@@ -1,5 +1,7 @@
 # Linear Regression
   
+Lets learn Linear Regression!
+
 ## How to run
 1. Build docker image
    
